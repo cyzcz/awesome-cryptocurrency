@@ -54,6 +54,7 @@
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
   * [下载币安k线历史数据的一个小程序] https://github.com/nntaoli-project/download_binance_kline_history
   * [一个独立bitcoin 私钥公钥地址生成器] https://github.com/vsergeev/btckeygenie
+  * [区块链 RPC 节点服务商、索引器、区块浏览器与开发者工具开源目录 Chain.Love] https://github.com/Chain-Love/chain-love (https://chain.love/)
 
 7. 加密货币开源交易所
   * [数字货币现货交易所] https://github.com/gitbitex/gitbitex-spot
